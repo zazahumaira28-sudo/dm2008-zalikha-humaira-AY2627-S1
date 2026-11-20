@@ -15,8 +15,8 @@ We reimagined Pong as a medieval battlefield. But instead of knights and knights
 
 ### Output
 
-![screenshot](readme-assets/screenshot-01.png)
-
+![screenshot](/02-mini-project/documentation/pong-still01.png)
+![screenshot](/02-mini-project/documentation/pong-still02.png)
 <!-- Drop a screenshot or GIF of your finished project.
      Save it to a readme-assets/ folder inside this project folder.
      Got more than one good screenshot? Add them. -->
@@ -25,7 +25,7 @@ We reimagined Pong as a medieval battlefield. But instead of knights and knights
 /02-mini-project/documentation/pong-still02.png
 
 
-[Watch Online] https://drive.google.com/file/d/1qkzrG9l5W2drixkXk54xjN7kbJgp_3GQ/view?usp=sharing
+[Watch Online] (https://drive.google.com/file/d/1qkzrG9l5W2drixkXk54xjN7kbJgp_3GQ/view?usp=sharing)
 
 <!-- Replace the link above with a URL to a screen recording or video of your project.
      ⚠️ Make sure the file or page is set to public before submitting. -->

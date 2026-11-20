@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 01 — Introduction to Creative Coding
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | `animal crossing characters` |
+| `1b`     | `visual inspired by Lizzie Mcguire intro` |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,14 +19,14 @@
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
-
 ---
+This week, I learnt to create images using simple shapes in p5.js. What worked best was placing a shape in the centre or corner first, then adjusting it point by point instead of calculating exact coordinates beforehand. I also taught myself to use colour arrays, since I wanted to experiment with colours beyond the introduction.
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](Activity%1a/activity1a-image01.jpg)
+![screenshot](Activity%1a/activity1a-image02.jpg)
+![screenshot](Activity%1b/activity1b-image01.jpg)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
