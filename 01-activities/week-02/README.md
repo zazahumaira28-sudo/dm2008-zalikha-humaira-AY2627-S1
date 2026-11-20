@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 02 — Control Flows and Interactivity
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `2a`     | A moving ellipse where keys 1 to 4 switch modes, each with its own colour, size and speed. |
+| `2b`     | Two rows of circles drawn with for loops, alternating colour and size, that all turn mustard while the mouse is held. |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -23,7 +23,9 @@
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
 ---
-
+For Activity 2a, keys 1 to 4 change the background colour, ellipse colour, size and speed. Each mode has its own colour pairing, and the ellipse gets bigger or faster across modes. It wraps around the right edge, and pressing any other key resets the background to grey.
+For Activity 2b, I used a for loop to draw a row of circles, with modulo alternating their colour and size. Holding the mouse changes every circle’s colour. I also added a second row above by repeating the loop. When mousePressed, every circle in both rows turns the same mustard colour (
+#a0964c), so the alternating pattern disappears. When you let go, the pattern comes back.
 ### Output
 
 ![screenshot](readme-assets/output.png)
