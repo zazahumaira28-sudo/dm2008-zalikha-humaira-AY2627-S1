@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | `animal crossing characters` |
+| `1b`     | `visual inspired by Lizzie Mcguire intro` |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
