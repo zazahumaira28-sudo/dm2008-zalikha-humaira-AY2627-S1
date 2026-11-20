@@ -28,10 +28,11 @@ For Activity 2b, I used a for loop to draw a row of circles, with modulo alterna
 #a0964c), so the alternating pattern disappears. When you let go, the pattern comes back.
 ### Output
 
-![screenshot](activity-2a/activity2a-image01)
-![screenshot](activity-2a/activity2a-image02)
-![screenshot](activity-2b/activity2b-image01)
-![screenshot](activity-2b/activity2b-image02)
+![screenshot](01-activities/week-02/Activity-2a/activity2a-image01.png)
+![screenshot](01-activities/week-02/Activity-2a/activity2a-image02.png)
+![screenshot](01-activities/week-02/Activity-2a/activity2a-image03.png)
+![screenshot](01-activities/week-02/Activity-2b/activity2b-image01.png)
+![screenshot](01-activities/week-02/Activity-2b/activity2b-image02.png)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
