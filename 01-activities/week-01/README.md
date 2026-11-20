@@ -19,8 +19,8 @@
 
 ### This Week
 
-This week, I learnt to create images using simple shapes in p5.js. What worked best was placing a shape in the centre or corner first, then adjusting it point by point instead of calculating exact coordinates beforehand. I also taught myself to use colour arrays, since I wanted to experiment with colours beyond the introduction.
 ---
+This week, I learnt to create images using simple shapes in p5.js. What worked best was placing a shape in the centre or corner first, then adjusting it point by point instead of calculating exact coordinates beforehand. I also taught myself to use colour arrays, since I wanted to experiment with colours beyond the introduction.
 
 ### Output
 
