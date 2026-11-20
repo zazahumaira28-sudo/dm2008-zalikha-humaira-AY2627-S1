@@ -27,8 +27,8 @@ For Activity 3a, I drew a row of squares with circles inside, coloured from two 
 For Activity 3b, I wrote a function, myShape, that draws a flower. I called it in four for loops to form a border, then added one large flower in the middle. Starting each loop at a corner made it easy to frame the centre.
 
 
-![screenshot](activity-3a/activity3a-image01)
-![screenshot](activity-3b/activity3b-image02)
+![screenshot](activity-3a/activity3a-image01.png)
+![screenshot](activity-3b/activity3b-image02.png)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
