@@ -11,7 +11,7 @@
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
 | `1a`     | `animal crossing characters` |
-| `1b`     | `visual inspired by Lizzie Mcguire intro` |
+| `1b`     | `teal on pink circles & visual inspired by Lizzie Mcguire intro` |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
