@@ -13,7 +13,7 @@ For Activity 8b, I connected a phototransistor to pin A0 and used analogRead() t
 For Activity 9a, I wired an ultrasonic sensor to an Arduino analog pin and used map() to convert distance readings into a usable range. constrain() kept values within limits, so the sensor’s input could drive visuals smoothly
 
 For my coding jam, I connected an Arduino ultrasonic sensor to p5.js through serial. Distance maps to five hearts that fill with pink liquid as you move closer. At full closeness, the hearts merge into one big heart that beats, sending glowing pink echoes outward.
----
+
 
 ### Output
 
