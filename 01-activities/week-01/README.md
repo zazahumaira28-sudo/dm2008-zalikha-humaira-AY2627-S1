@@ -24,9 +24,9 @@ This week, I learnt to create images using simple shapes in p5.js. What worked b
 
 ### Output
 
-![screenshot](01-activities/week-01/Activity%201a/activity1a-image01.jpg)
-![screenshot](01-activities/week-01/Activity%201a/activity1a-image02.jpg)
-![screenshot](01-activities/week-01/Activity%201b/activity1b-image01.jpg)
+![screenshot](01-activities/week-01/Activity1a/activity1a-image01.jpg)
+![screenshot](01-activities/week-01/Activity1a/activity1a-image02.jpg)
+![screenshot](01-activities/week-01/Activity1b/activity1b-image01.jpg)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
