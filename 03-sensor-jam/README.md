@@ -1,4 +1,4 @@
-# Sensor Jam — Title
+# Sensor Jam — 8a, 8b, 9a & coding jam
 
 <!-- Replace "Title" with the name of your project, e.g. "Sensor Jam — Theremin Visualiser" -->
 
@@ -6,10 +6,13 @@
 
 ### The Project
 
-<!-- What does your sketch do, and what physical input drives it?
-     How does the sensor data translate into something on screen?
-     A few sentences is all you need. -->
+For Activity 8a, I wired an LED with a resistor to an Arduino and controlled it three ways. Type 1 stays always on through the 5V rail, type 2 blinks using digitalWrite on pin 13, and type 3 fades smoothly using PWM on pin 9.
 
+For Activity 8b, I connected a phototransistor to pin A0 and used analogRead() to print light values to the Serial Monitor. Covering or shining light on the sensor made the numbers go down or up.
+
+For Activity 9a, I wired an ultrasonic sensor to an Arduino analog pin and used map() to convert distance readings into a usable range. constrain() kept values within limits, so the sensor’s input could drive visuals smoothly
+
+For my coding jam, I connected an Arduino ultrasonic sensor to p5.js through serial. Distance maps to five hearts that fill with pink liquid as you move closer. At full closeness, the hearts merge into one big heart that beats, sending glowing pink echoes outward.
 ---
 
 ### Output
